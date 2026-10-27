@@ -13,11 +13,9 @@
 
 ### Nos services
 
-| | |
-|---|---|
-| **Location** | Lits médicalisés, fauteuils roulants, lève-personnes… Livraison, installation et reprise, pour le temps qu'il faut. |
-| **Vente** | Fauteuils manuels et électriques sur mesure, aides à la marche, prévention des escarres. Essai à domicile avant achat. |
-| **SAV** | Assistance, réparation et entretien préventif, que vous soyez client ou non. |
+- **Location** — lits médicalisés, fauteuils roulants, lève-personnes… Livraison, installation et reprise, pour le temps qu'il faut.
+- **Vente** — fauteuils manuels et électriques sur mesure, aides à la marche, prévention des escarres. Essai à domicile avant achat.
+- **SAV** — assistance, réparation et entretien préventif, que vous soyez client ou non.
 
 ### Nos engagements
 
@@ -25,12 +23,10 @@
 
 ### Nous trouver
 
-| | |
-|---|---|
-| **Site** | [www.adomhsante.com](https://www.adomhsante.com) |
-| **Magasin** | 164 avenue des Rigaou, Le Clos du Rocher, ZI Plaine du Caire, 13830 Roquefort-la-Bédoule |
-| **Téléphone** | [04 96 18 81 80](tel:+33496188180) |
-| **E-mail** | [secretariat@adomhsante.com](mailto:secretariat@adomhsante.com) |
-| **Horaires** | Lundi 14 h – 19 h · Mardi au samedi 10 h 30 – 19 h |
+- **Site** : [www.adomhsante.com](https://www.adomhsante.com)
+- **Magasin** : 164 avenue des Rigaou, Le Clos du Rocher, ZI Plaine du Caire, 13830 Roquefort-la-Bédoule
+- **Téléphone** : [04 96 18 81 80](tel:+33496188180)
+- **E-mail** : [secretariat@adomhsante.com](mailto:secretariat@adomhsante.com)
+- **Horaires** : lundi 14 h – 19 h · du mardi au samedi 10 h 30 – 19 h
 
 <p align="center"><sub>Cette organisation héberge le code du site www.adomhsante.com.</sub></p>
