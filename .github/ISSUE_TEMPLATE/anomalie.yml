@@ -1,0 +1,17 @@
+name: Anomalie
+description: Quelque chose ne fonctionne pas comme prévu
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "**Ne collez ici aucune donnée de santé ni donnée personnelle réelle** (nom, NIR, adresse, ordonnance). Pour une faille de sécurité, voir SECURITY.md."
+  - type: textarea
+    id: constat
+    attributes: { label: Ce qui se passe, description: "Page ou écran concerné, ce que vous voyez" }
+    validations: { required: true }
+  - type: textarea
+    id: attendu
+    attributes: { label: Ce qui était attendu }
+  - type: textarea
+    id: etapes
+    attributes: { label: Pour reproduire, description: "Les étapes, avec des données fictives" }

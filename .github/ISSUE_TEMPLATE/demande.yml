@@ -1,0 +1,14 @@
+name: Demande d'évolution
+description: Une idée ou un besoin nouveau
+labels: [evolution]
+body:
+  - type: markdown
+    attributes:
+      value: "**Ne collez ici aucune donnée de santé ni donnée personnelle réelle.**"
+  - type: textarea
+    id: besoin
+    attributes: { label: Le besoin, description: "Qui, quoi, pourquoi" }
+    validations: { required: true }
+  - type: textarea
+    id: idee
+    attributes: { label: L'idée de solution (facultatif) }
